@@ -1,5 +1,5 @@
 # backlight_command
-Enable backlight command key for i3wm (if xbacklight cannot work)
+Enable backlight command key for i3wm (if xbacklight command cannot working)
 
 1. save the backlight.sh into your i3 config directory
 2. chmod +x backlight.sh
